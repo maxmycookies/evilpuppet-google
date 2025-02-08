@@ -1,3 +1,22 @@
+**DO NOT CONTACT ME FOR ILLEGAL ACTIVITIES!!!
+THIS IS FOR EDUCATIONAL PURPOSES ONLY!!!
+https://t.me/maxmycookies**
+
+Updated DOM script
+Updated Resource Processing
+Updated CDP inceterceptor
+Real human behavior (StealthPlugin)
+Cookies/Credentials to telegram
+Client & Puppeteer Browser URL Update (Real Time)
+
+--------
+This scope can be widen more and used for real life phishing scenerio
+
+
+You can run in ubuntu and use nginx as proxy pass to localhost!
+
+Hence serving this localhost to the real world proxying from your domain to VPS 127.0.0.1:1000.
+
 # evilpuppet-google
 ![Screenshot_2](https://github.com/user-attachments/assets/2ecc2a66-6747-4e4e-a18b-0722210b23a2)
 
