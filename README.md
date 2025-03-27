@@ -1,6 +1,11 @@
 **DO NOT CONTACT ME FOR ILLEGAL ACTIVITIES!!!
 THIS IS FOR EDUCATIONAL PURPOSES ONLY!!!
 https://t.me/maxmycookies**
+[4bbb600227980e57427296e23cd66b11d063179f9207918462a765827c865127](https://t.me/newtonpmta)
+
+
+Free tools in group!
+
 
 Updated DOM script
 Updated Resource Processing
